@@ -1,3 +1,3 @@
-# bharatIntern_netfilxClone
+# Netflix Clone
 
-Netflix clone using html and css
+Netflix clone using html and css for Baharat Intern intership.
